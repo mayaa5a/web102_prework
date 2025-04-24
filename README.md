@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SM Money
 
-Submitted by: **Your Name Here**
+Submitted by: Maya Ali 
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SM Money is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
@@ -16,6 +16,7 @@ The following **required** functionality is completed:
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
+I created a search bar! This search lets you search for the name of a game that a user may want, and it gets filtered and returns the result. 
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
@@ -35,6 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+My main challenge was brushing up HTML and CSS code. 
 
 ## License
 
