@@ -22,7 +22,7 @@ I created a search bar! This search lets you search for the name of a game that 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: https://www.loom.com/share/7f8ec52fcfa94538b4e4279ef4e011bb?sid=77b50ab5-3641-4892-944d-3574b6c47291 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
